@@ -1,4 +1,4 @@
-# Project: Parallelization of Matrix Sum Calculation
+# Parallelization of Matrix Sum Calculation
 
 This project aims to parallelize the calculation of the sum of a randomly generated square matrix using threads. The initial program, `mat-gen-sum.c`, performs the following operations:
 
